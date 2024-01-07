@@ -1,0 +1,13 @@
+{
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/env/Lib/**/site-packages/",
+    "${workspaceFolder}/logviewer/pages/",
+    "${workspaceFolder}/logviewer/",
+  ],
+  "python.autoComplete.extraPaths": [
+    "${workspaceFolder}/env/Lib/**/site-packages/",
+    "${workspaceFolder}/logviewer/pages/",
+    "${workspaceFolder}/logviewer/",
+  ],
+}
